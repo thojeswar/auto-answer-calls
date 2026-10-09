@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Edit this message, or set the GREETING env var on your host
 GREETING = os.environ.get(
     "GREETING",
-    "Hi, you have reached Vinay. I am currently not available to take calls. "
+    "Hi, you have reached Thojeswar . I am currently not available to take calls. "
     "If this is regarding a project allocation or any official matter, "
     "please send me an email or message with the details, and I will get back to you. "
     "Thank you.",
